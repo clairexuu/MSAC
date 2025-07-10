@@ -1,0 +1,5 @@
+# Additional requirements for main training script
+matplotlib>=3.5.0
+seaborn>=0.11.0
+opencv-python>=4.5.0
+pillow>=8.0.0
